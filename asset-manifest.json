@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/momentum/static/css/main.8f69c0c0.css",
+    "main.js": "/momentum/static/js/main.ade61cc0.js",
+    "static/js/787.a88eb028.chunk.js": "/momentum/static/js/787.a88eb028.chunk.js",
+    "static/media/NullamImg.png": "/momentum/static/media/NullamImg.bb5e112f5ae6bb4f11dd.png",
+    "static/media/HomeImage.png": "/momentum/static/media/HomeImage.1452699e2bf7f80aee9d.png",
+    "static/media/c3.png": "/momentum/static/media/c3.36e89b7f8cf5ecbd5b08.png",
+    "static/media/c5.jpeg": "/momentum/static/media/c5.d8137287d5f0655b5094.jpeg",
+    "static/media/c2.png": "/momentum/static/media/c2.debcfe7c4b47cdff7ce7.png",
+    "static/media/c4.jpeg": "/momentum/static/media/c4.07fdbe81ca2206611c93.jpeg",
+    "static/media/i1.png": "/momentum/static/media/i1.ff4bf57885cbfd0f5aa4.png",
+    "static/media/i2.jpeg": "/momentum/static/media/i2.084d9f19f4377bf40c3e.jpeg",
+    "static/media/r1.png": "/momentum/static/media/r1.bf2771ce8ebf2349b6b6.png",
+    "index.html": "/momentum/index.html",
+    "main.8f69c0c0.css.map": "/momentum/static/css/main.8f69c0c0.css.map",
+    "main.ade61cc0.js.map": "/momentum/static/js/main.ade61cc0.js.map",
+    "787.a88eb028.chunk.js.map": "/momentum/static/js/787.a88eb028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f69c0c0.css",
+    "static/js/main.ade61cc0.js"
+  ]
+}
